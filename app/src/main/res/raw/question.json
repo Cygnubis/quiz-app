@@ -1,0 +1,201 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "choices": [
+      "London",
+      "Berlin",
+      "Paris",
+      "Madrid"
+    ],
+    "correct_answer": "Paris"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "choices": [
+      "Mount Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "correct_answer": "Mount Everest"
+  },
+  {
+    "question": "Which of these is NOT a primary color?",
+    "choices": [
+      "Red",
+      "Yellow",
+      "Green",
+      "Purple"
+    ],
+    "correct_answer": "Purple"
+  },
+  {
+    "question": "What is the name of the largest ocean on Earth?",
+    "choices": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_answer": "Pacific Ocean"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct_answer": "6"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "choices": [
+      "Yen",
+      "Yuan",
+      "Won",
+      "Euro"
+    ],
+    "correct_answer": "Yen"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "choices": [
+      "H2O",
+      "NaCl",
+      "CO2",
+      "NH3"
+    ],
+    "correct_answer": "H2O"
+  },
+  {
+    "question": "What is the name of the largest desert in the world?",
+    "choices": [
+      "Sahara Desert",
+      "Gobi Desert",
+      "Australian Desert",
+      "Kalahari Desert"
+    ],
+    "correct_answer": "Sahara Desert"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "choices": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "correct_answer": "Canberra"
+  },
+  {
+    "question": "What is the name of the search engine developed by Google?",
+    "choices": [
+      "Bing",
+      "DuckDuckGo",
+      "Yahoo",
+      "Google Search"
+    ],
+    "correct_answer": "Google Search"
+  },
+  {
+    "question": "How many planets are there in our solar system?",
+    "choices": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correct_answer": "8"
+  },
+  {
+    "question": "What is the largest living organism on Earth?",
+    "choices": [
+      "Blue Whale",
+      "Giant Sequoia",
+      "Honey Fungus",
+      "African Elephant"
+    ],
+    "correct_answer": "Giant Sequoia"
+  },
+  {
+    "question": "What year did World War II begin?",
+    "choices": [
+      "1939",
+      "1941",
+      "1943",
+      "1945"
+    ],
+    "correct_answer": "1939"
+  },
+  {
+    "question": "What is the chemical element with atomic number 6?",
+    "choices": [
+      "Carbon",
+      "Oxygen",
+      "Nitrogen",
+      "Neon"
+    ],
+    "correct_answer": "Carbon"
+  },
+  {
+    "question": "What is the tallest building in the world?",
+    "choices": [
+      "Burj Khalifa",
+      "Shanghai Tower",
+      "Makkah Royal Clock Tower Hotel",
+      "One World Trade Center"
+    ],
+    "correct_answer": "Burj Khalifa"
+  },
+  {
+    "question": "What is the name of the world's largest river by discharge volume?",
+    "choices": [
+      "Amazon River",
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "correct_answer": "Amazon River"
+  },
+  {
+    "question": "What is the scientific name for the domestic cat?",
+    "choices": [
+      "Felis catus",
+      "Canis familiaris",
+      "Equus caballus",
+      "Sus scrofa"
+    ],
+    "correct_answer": "Felis catus"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "choices": [
+      "Berlin",
+      "Munich",
+      "Hamburg",
+      "Cologne"
+    ],
+    "correct_answer": "Berlin"
+  },
+  {
+    "question": "What is the name of the world's most populous country?",
+    "choices": [
+      "China",
+      "India",
+      "Russia",
+      "Brazil"
+    ]
+  },
+  {
+    "question": "What is the largest living organism on Earth?",
+    "choices": [
+      "Blue Whale",
+      "Giant Sequoia",
+      "Honey Fungus",
+      "African Elephant"
+    ],
+    "correct_answer": "Blue Whale"
+  }
+]
